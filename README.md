@@ -49,7 +49,7 @@ This project is a **Sinhala Spelling and Grammar Checker** implemented in Python
 ### Run the Streamlit App
 1. Use the following command to launch the app:
     ```bash
-    streamlit run streamlit_interface.py
+    streamlit run interface.py
     ```
 2. The app will open in your default web browser.
 
